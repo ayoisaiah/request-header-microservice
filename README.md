@@ -7,7 +7,7 @@ freeCodeCamp's APIs and Microservices Project - [Request Header Parser Microserv
 
 ### Example usage:
 
-* [https://ayo-request.heroku.com/api/whoami](https://ayo-request.heroku.com/api/whoami)
+* [https://ayo-request.herokuapp.com/api/whoami](https://ayo-request.herokuapp.com/api/whoami)
 
 ### Example output:
 
